@@ -35,9 +35,10 @@
     display:inline-block;
     width: 20%;
     height: 3px;
-    background-color: black;
+    background-color: rgb(255, 0, 170);
     position: relative;
     margin-bottom: 5px;
+    
   }
   
   ul{
